@@ -1,6 +1,4 @@
-# Assignment3
-Ryan Klapper
-2272482
+# Assignment3 - Ryan Klapper (2272482)
 CPSC 408
 Assignment 3
 
